@@ -1,7 +1,7 @@
 import java.util.Scanner;
-class Example19 {
+class Example20 {
     public static void main(String[] argv) {
-        float year;
+        int year;
         System.out.println("Enter the Year:");
 
         Scanner inputValue;
